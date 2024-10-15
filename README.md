@@ -2,15 +2,4 @@
 
 A translation app with context.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](https://private-user-images.githubusercontent.com/95227652/376737517-acc0d565-b7b2-485a-8b02-7163a0bc975b.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjkwMTYyNjYsIm5iZiI6MTcyOTAxNTk2NiwicGF0aCI6Ii85NTIyNzY1Mi8zNzY3Mzc1MTctYWNjMGQ1NjUtYjdiMi00ODVhLThiMDItNzE2M2EwYmM5NzViLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDE1VDE4MTI0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ5Y2QwNTIwZDBkMGIwOTZkM2M4YzkxZGZjMmRjOTY1NTI4MzhmYzU3ODE5ZWE5ZmQzNWEzNjlmYTQzMzU4ODQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.XfBvsDtQA5Ax5wkV7B5ljhGgLJ7nQvulSjxfNZ6l3ZI)
